@@ -13,10 +13,6 @@ public class FunctionPrime {
         }
         return num*num>n;
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        boolean ans = Isprime(n);
-        System.out.println(ans);
-    }
+
+    
 }
