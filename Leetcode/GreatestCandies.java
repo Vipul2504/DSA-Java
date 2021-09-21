@@ -17,7 +17,4 @@ public class GreatestCandies {
         }
             return newList;
     }
-    public static void main(String[] args) {
-        
-    }
 }
