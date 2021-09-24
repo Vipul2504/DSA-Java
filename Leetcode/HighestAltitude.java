@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class highestAltitude{
+public class HighestAltitude{
     public int largestAltitude(int[] gain) {
         int max = 0;
         int sum = 0;
